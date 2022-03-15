@@ -3,6 +3,16 @@
 ## Challenges
 
 <details>
+<summary>Web Exploitation</summary>
+
+|Question|Points|
+|--------|------|
+|[Power Cookie](./Web%20Exploitation/Power%20Cookie/)|100|
+|[Secrets](./Web%20Exploitation/Secrets/)|200|
+
+</details>
+
+<details>
 <summary>Reverse Engineering</summary>
 
 |Question|Points|
