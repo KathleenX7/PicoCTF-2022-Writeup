@@ -17,5 +17,6 @@
 |Question|Points|
 |--------|------|
 |[Enhance!](./Forensics/Enhance!/)|100|
+|[Lookey here](./Forensics/Lookey%20here/|100|
 
 </details>
