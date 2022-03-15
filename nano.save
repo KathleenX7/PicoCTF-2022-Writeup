@@ -1,0 +1,7 @@
+pico Please enter the length of your data: 4 4 Your entry number is: 1 
+Write successful, would you like to do anything else? 2 2 Please enter 
+the entry number of your data: 1 1 pico Read successful, would you like 
+to do anything else? 2 2 Please enter the entry number of your data: 3 3 
+Read successful, would you like to do anything else? 2 2 Please enter 
+the entry number of your data: hi hi
+picoCTF{M4K3_5UR3_70_CH3CK_Y0UR_1NPU75_25D6CDDB}
