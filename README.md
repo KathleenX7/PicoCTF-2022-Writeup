@@ -13,6 +13,18 @@
 </details>
 
 <details>
+<summary>Cryptography</summary>
+
+|Question|Points|
+|--------|------|
+|[substitution0](./Cryptography/substitution0/)|100|
+|[substitution1](./Cryptography/substitution1/)|100|
+|[substitution2](./Cryptography/substitution2/)|100|
+|[transposition-trial](./Cryptography/transposition-trial/)|100|
+
+</details>
+
+<details>
 <summary>Reverse Engineering</summary>
 
 |Question|Points|
@@ -30,6 +42,7 @@
 |[Lookey here](./Forensics/Lookey%20here/)|100|
 |[Packets Primer](./Forensics/Packets%20Primer/)|100|
 |[Redaction gone wrong](./Forensics/Redaction%20gone%20wrong/)|100|
+|[Sleuthkit Intro](./Forensics/Sleuthkit%20Intro/)|100|
 |[Eavesdrop](./Forensics/Eavesdrop/)|300|
 |[St3g0](./Forensics/St3g0/)|300|
 
