@@ -19,5 +19,6 @@
 |[Enhance!](./Forensics/Enhance!/)|100|
 |[Lookey here](./Forensics/Lookey%20here/)|100|
 |[Packets Primer](./Forensics/Packets%20Primer/)|100|
+|[St3g0](./Forensics/St3g0/)|300|
 
 </details>
