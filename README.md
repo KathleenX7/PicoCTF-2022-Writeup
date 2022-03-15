@@ -3,11 +3,11 @@
 ## Challenges
 
 <details>
-<summary>Binary Exploitation</summary>
+<summary>Reverse Engineering</summary>
 
 |Question|Points|
 |--------|------|
-|[buffer overflow 0](./Binary%20Exploitation/buffer%20overflow%200/)|100|
+|[patchme.py](./Reverse%20Engineering/patchme.py/)|100|
 
 </details>
 
@@ -21,5 +21,14 @@
 |[Packets Primer](./Forensics/Packets%20Primer/)|100|
 |[Redaction gone wrong](./Forensics/Redaction%20gone%20wrong/)|100|
 |[St3g0](./Forensics/St3g0/)|300|
+
+</details>
+
+<details>
+<summary>Binary Exploitation</summary>
+
+|Question|Points|
+|--------|------|
+|[buffer overflow 0](./Binary%20Exploitation/buffer%20overflow%200/)|100|
 
 </details>
