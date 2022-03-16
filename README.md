@@ -13,6 +13,7 @@
 |[Power Cookie](./Web%20Exploitation/Power%20Cookie/)|200|
 |[Roboto Sans](./Web%20Exploitation/Roboto%20Sans/)|200|
 |[Secrets](./Web%20Exploitation/Secrets/)|200|
+|[SQL Direct](./Web%20Exploitation/SQL%20Direct/)|200|
 |[SQLiLite](./Web%20Exploitation/SQLiLite/)|300|
 
 </details>
