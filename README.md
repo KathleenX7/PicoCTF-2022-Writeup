@@ -9,7 +9,8 @@
 |--------|------|
 |[Inspect HTML](./Web%20Exploitation/Inspect%20HTML/)|100|
 |[Search source](./Web%20Exploitation/Search%20source/)|100|
-|[Power Cookie](./Web%20Exploitation/Power%20Cookie/)|100|
+|[Forbiden Paths](./Web%20Exploitation/Forbidden%20Paths/)|200|
+|[Power Cookie](./Web%20Exploitation/Power%20Cookie/)|200|
 |[Roboto Sans](./Web%20Exploitation/Roboto%20Sans/)|200|
 |[Secrets](./Web%20Exploitation/Secrets/)|200|
 
