@@ -32,6 +32,7 @@
 |[substitution1](./Cryptography/substitution1/)|100|
 |[substitution2](./Cryptography/substitution2/)|100|
 |[transposition-trial](./Cryptography/transposition-trial/)|100|
+|[Sum-O-Primes](./Cryptography/Sum-O-Primes/)|400|
 
 </details>
 
