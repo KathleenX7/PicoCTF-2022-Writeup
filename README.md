@@ -70,6 +70,10 @@
 
 |Question|Points|
 |--------|------|
+|[basic-file-exploit](./Binary%20Exploitation/basic-file-exploit)|100|
 |[buffer overflow 0](./Binary%20Exploitation/buffer%20overflow%200/)|100|
+|[CVE-XXXX-XXXX](./Binary%20Exploitation/CVE-XXXX-XXXX)|100|
+|[buffer overflow 1](./Binary%20Exploitation/buffer%20overflow%201/)|200|
+|[RPS](./Binary%20Exploitation/RPS)|200|
 
 </details>
