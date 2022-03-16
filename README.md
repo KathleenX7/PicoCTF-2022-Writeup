@@ -49,6 +49,7 @@
 |[bloat.py](./Reverse%20Engineering/bloat.py/)|200|
 |[Fresh Java](./Reverse%20Engineering/Fresh%20Java/)|200|
 |[BBbbbloat](./Reverse%20Engineering/Bbbbloat/)|300|
+|[unpackme](./Reverse%20Engineering/unpackme/)|300|
 
 </details>
 
