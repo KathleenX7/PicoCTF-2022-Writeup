@@ -7,6 +7,7 @@
 
 |Question|Points|
 |--------|------|
+|[Inspect HTML](./Web%20Exploitation/Inspect%20HTML/)|100|
 |[Power Cookie](./Web%20Exploitation/Power%20Cookie/)|100|
 |[Secrets](./Web%20Exploitation/Secrets/)|200|
 
@@ -17,6 +18,11 @@
 
 |Question|Points|
 |--------|------|
+|[baseic-mod-1](./Cryptography/basic-mod1/)|100|
+|[baseic-mod-2](./Cryptography/basic-mod2/)|100|
+|[credstuff](./Cryptography/credstuff/)|100|
+|[morse-code](./Cryptography/morse-code/)|100|
+|[rail-fence](./Cryptography/rail-fence/)|100|
 |[substitution0](./Cryptography/substitution0/)|100|
 |[substitution1](./Cryptography/substitution1/)|100|
 |[substitution2](./Cryptography/substitution2/)|100|
@@ -29,7 +35,13 @@
 
 |Question|Points|
 |--------|------|
+|[file-run1](./Reverse%20Engineering/file-run1/)|100|
+|[file-run2](./Reverse%20Engineering/file-run2/)|100|
 |[patchme.py](./Reverse%20Engineering/patchme.py/)|100|
+|[Safe Opener](./Reverse%20Engineering/Safe%20Opener/)|100|
+|[unpackme.py](./Reverse%20Engineering/unpackme.py/)|100|
+|[bloat.py](./Reverse%20Engineering/bloat.py/)|200|
+|[Fresh Java](./Reverse%20Engineering/Fresh%20Java/)|200|
 
 </details>
 
