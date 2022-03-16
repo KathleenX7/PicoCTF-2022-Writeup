@@ -66,6 +66,7 @@
 |[Sleuthkit Intro](./Forensics/Sleuthkit%20Intro/)|100|
 |[Sleuthkit Apprentice](./Forensics/Sleuthkit%20Apprentice/)|200|
 |[Eavesdrop](./Forensics/Eavesdrop/)|300|
+|[Operation Oni](./Forensics/Operation%20Oni/)|300|
 |[St3g0](./Forensics/St3g0/)|300|
 
 </details>
