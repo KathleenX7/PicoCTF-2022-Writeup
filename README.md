@@ -58,10 +58,12 @@
 |Question|Points|
 |--------|------|
 |[Enhance!](./Forensics/Enhance!/)|100|
+|[File types](./Forensics/File%20types/)|100|
 |[Lookey here](./Forensics/Lookey%20here/)|100|
 |[Packets Primer](./Forensics/Packets%20Primer/)|100|
 |[Redaction gone wrong](./Forensics/Redaction%20gone%20wrong/)|100|
 |[Sleuthkit Intro](./Forensics/Sleuthkit%20Intro/)|100|
+|[Sleuthkit Apprentice](./Forensics/Sleuthkit%20Apprentice/)|200|
 |[Eavesdrop](./Forensics/Eavesdrop/)|300|
 |[St3g0](./Forensics/St3g0/)|300|
 
