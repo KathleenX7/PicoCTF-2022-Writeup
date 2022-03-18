@@ -85,5 +85,6 @@
 |[CVE-XXXX-XXXX](./Binary%20Exploitation/CVE-XXXX-XXXX)|100|
 |[buffer overflow 1](./Binary%20Exploitation/buffer%20overflow%201/)|200|
 |[RPS](./Binary%20Exploitation/RPS)|200|
+|[x-sixty-what](./Binary%20Exploitation/x-sixty-what)|200|
 
 </details>
