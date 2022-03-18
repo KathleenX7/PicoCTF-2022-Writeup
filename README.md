@@ -69,6 +69,7 @@
 |[Eavesdrop](./Forensics/Eavesdrop/)|300|
 |[Operation Oni](./Forensics/Operation%20Oni/)|300|
 |[St3g0](./Forensics/St3g0/)|300|
+|[Operation Orchid](./Forensics/Operation%20Orchid/)|400|
 |[SideChannel](./Forensics/SideChannel/)|400|
 
 </details>
