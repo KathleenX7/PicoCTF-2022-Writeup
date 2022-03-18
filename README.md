@@ -71,6 +71,7 @@
 |[St3g0](./Forensics/St3g0/)|300|
 |[Operation Orchid](./Forensics/Operation%20Orchid/)|400|
 |[SideChannel](./Forensics/SideChannel/)|400|
+|[Torrent Analyze](./Forensics/Torrent%20Analyze/)|400|
 
 </details>
 
