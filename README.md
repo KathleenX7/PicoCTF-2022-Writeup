@@ -88,5 +88,6 @@
 |[x-sixty-what](./Binary%20Exploitation/x-sixty-what)|200|
 |[buffer overflow 2](./Binary%20Exploitation/buffer%20overflow%202)|200|
 |[buffer overflow 3](./Binary%20Exploitation/buffer%20overflow%203)|300|
+|[flag leak](./Binary%20Exploitation/flag%20leak)|300|
 
 </details>
